@@ -20,7 +20,7 @@ The codes provided herein can be used to simulate the Figs. 1 to 9 contained in 
 If you use any part of this repository for research, please consider to cite our aforementioned work. This code is licensed under the GPLv3 license. 
 
 ## Acknowledgments
-This research was supported in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) of Brazil, under grants 304066/2015‐0 and 102050/2018‐0, and in part by the Universidade Estadual de Londrina (UEL), Brazil, under grant PIBITI Scholarship, edict 02/2018.
+This research was supported in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) of Brazil, under grants 304066/2015‐0 and 102050/2018‐0, and in part by the Universidade Estadual de Londrina (UEL), Brazil under the PIBITI grant of the public notice 02/2018.
 
 
 
