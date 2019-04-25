@@ -17,7 +17,7 @@ To provide the vast exploitation of the large number of antennas on massive mult
 The codes provided herein can be used to simulate the Figs. 1 to 9 contained in the article; this is done by running the scripts that have "simulation" in their names, while those with "function" in their names are called by the main scripts. Further details about each file can be found inside them.
 
 ## Citing this Repository and License
-This code is licensed under the GPLv3 license. If you use any part of this repository for research, please consider to cite our aforementioned work.
+This code is subject to the GPLv3 license. If you use any part of this repository for research, please consider to cite our aforementioned work.
 
 ## Acknowledgments
 This research was supported in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) of Brazil, under grants 304066/2015‐0 and 102050/2018‐0, and in part by the Universidade Estadual de Londrina (UEL), Brazil under the PIBITI grant of the public notice 02/2018.
