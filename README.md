@@ -19,9 +19,22 @@ The codes provided herein can be used to simulate the Figs. 1 to 9 contained in 
 ## Citing this Repository and License
 This code is subject to the GPLv3 license. If you use any part of this repository for research, please consider to cite our aforementioned work.
 
+```bibtex
+@article{https://doi.org/10.1002/ett.3563,
+author = {Croisfelt Rodrigues, Victor and Marinello, José Carlos and Abrão, Taufik},
+title = {Exponential spatial correlation with large-scale fading variations in massive MIMO channel estimation},
+journal = {Transactions on Emerging Telecommunications Technologies},
+volume = {30},
+number = {5},
+pages = {e3563},
+doi = {https://doi.org/10.1002/ett.3563},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3563},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ett.3563},
+note = {e3563 ett.3563}
+}
+
 ## Acknowledgments
 This research was supported in part by the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) of Brazil, under grants 304066/2015‐0 and 102050/2018‐0, and in part by the Universidade Estadual de Londrina (UEL), Brazil under the PIBITI grant of the public notice 02/2018.
-
 
 
 
