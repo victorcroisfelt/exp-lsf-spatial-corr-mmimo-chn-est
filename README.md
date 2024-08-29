@@ -24,14 +24,14 @@ This code is subject to the GPLv3 license. If you use any part of this repositor
 
 ```bibtex
 @article{https://doi.org/10.1002/ett.3563,
-author = {Croisfelt Rodrigues, Victor and Marinello, José Carlos and Abrão, Taufik},
-title = {Exponential spatial correlation with large-scale fading variations in massive MIMO channel estimation},
-journal = {Transactions on Emerging Telecommunications Technologies},
-volume = {30},
-number = {5},
-pages = {e3563},
-doi = {https://doi.org/10.1002/ett.3563},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3563},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ett.3563},
-note = {e3563 ett.3563}
+  author = {Croisfelt Rodrigues, Victor and Marinello, José Carlos and Abrão, Taufik},
+  title = {Exponential spatial correlation with large-scale fading variations in massive MIMO channel estimation},
+  journal = {Transactions on Emerging Telecommunications Technologies},
+  volume = {30},
+  number = {5},
+  pages = {e3563},
+  doi = {https://doi.org/10.1002/ett.3563},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3563},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ett.3563},
+  note = {e3563 ett.3563}
 }
